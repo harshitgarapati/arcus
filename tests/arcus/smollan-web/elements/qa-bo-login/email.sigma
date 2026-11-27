@@ -1,0 +1,4 @@
+element "qa-bo-login/email" {
+
+  locator css "input[formcontrolname='Email']"
+}

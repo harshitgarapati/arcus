@@ -1,0 +1,4 @@
+element "ir-report/refresh" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/img_refresh\")" only android
+}

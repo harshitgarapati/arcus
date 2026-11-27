@@ -1,0 +1,4 @@
+element "vehicle-form/status" {
+
+  locator css "p-dropdown[formcontrolname='status'] .p-dropdown"
+}

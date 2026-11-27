@@ -1,0 +1,4 @@
+element "mapping/status-filter" {
+
+  locator css "div.dvm-status-select"
+}

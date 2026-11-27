@@ -1,0 +1,4 @@
+element "ir/next" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_next\")" only android
+}

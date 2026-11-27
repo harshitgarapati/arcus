@@ -1,0 +1,4 @@
+element "mapping/title" {
+
+  locator css "h2.dvm-page-title"
+}

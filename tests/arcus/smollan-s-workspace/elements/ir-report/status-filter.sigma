@@ -1,0 +1,4 @@
+element "ir-report/status-filter" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_view_all_recent\")" only android
+}

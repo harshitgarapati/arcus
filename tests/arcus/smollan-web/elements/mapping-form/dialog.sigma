@@ -1,0 +1,4 @@
+element "mapping-form/dialog" {
+
+  locator css ".dvm-mapping-dialog"
+}

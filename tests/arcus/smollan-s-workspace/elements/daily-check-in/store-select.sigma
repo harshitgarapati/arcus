@@ -1,0 +1,4 @@
+element "daily-check-in/store-select" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/ll_store\")" only android
+}

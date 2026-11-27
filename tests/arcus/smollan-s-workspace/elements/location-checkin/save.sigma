@@ -1,0 +1,4 @@
+element "location-checkin/save" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_save\")" only android
+}

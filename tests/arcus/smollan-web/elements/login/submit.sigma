@@ -1,0 +1,4 @@
+element "login/submit" {
+
+  locator css "button[type='submit']"
+}

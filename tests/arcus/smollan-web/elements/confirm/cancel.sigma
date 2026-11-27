@@ -1,0 +1,4 @@
+element "confirm/cancel" {
+
+  locator css ".p-confirm-dialog-reject"
+}

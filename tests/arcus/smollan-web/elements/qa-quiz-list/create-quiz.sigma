@@ -1,0 +1,4 @@
+element "qa-quiz-list/create-quiz" {
+
+  locator css "h3.nudge-part"
+}

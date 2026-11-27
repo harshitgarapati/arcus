@@ -1,0 +1,4 @@
+element "mapping/first-edit" {
+
+  locator css "tbody tr:first-child .dvm-btn--edit"
+}

@@ -1,0 +1,4 @@
+element "ir-camera/gallery-image" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/iv_iqmps\").instance(0)" only android
+}

@@ -1,0 +1,4 @@
+element "vehicle-form/close" {
+
+  locator css ".um-form-dialog .p-dialog-header-close"
+}

@@ -1,0 +1,4 @@
+element "qa-quiz-form/pass-mark-error" {
+
+  locator xpath "//*[normalize-space(text())='Please Enter Pass Mark']"
+}

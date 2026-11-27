@@ -1,0 +1,5 @@
+element "nav/call-cycle" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/navigation_calendar\")" only android
+  locator xpath "//*[@text='Call Cycle']" only android
+}

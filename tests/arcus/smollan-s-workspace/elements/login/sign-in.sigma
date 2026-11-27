@@ -1,0 +1,5 @@
+element "login/sign-in" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btnServerLogin\")" only android
+  locator xpath "//*[@text='Sign in']" only android
+}

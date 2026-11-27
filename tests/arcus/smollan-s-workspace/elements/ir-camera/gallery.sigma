@@ -1,0 +1,4 @@
+element "ir-camera/gallery" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_camera_previews\")" only android
+}

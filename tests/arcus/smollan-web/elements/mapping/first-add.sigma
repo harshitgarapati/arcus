@@ -1,0 +1,4 @@
+element "mapping/first-add" {
+
+  locator css "tbody tr:first-child .dvm-btn--add"
+}

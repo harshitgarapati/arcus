@@ -1,0 +1,4 @@
+element "driver-master/search" {
+
+  locator css "input.um-search"
+}

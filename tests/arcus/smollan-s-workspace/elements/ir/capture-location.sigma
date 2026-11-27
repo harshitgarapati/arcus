@@ -1,0 +1,4 @@
+element "ir/capture-location" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/lr_capture_location\")" only android
+}

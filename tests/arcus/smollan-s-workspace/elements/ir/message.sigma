@@ -1,0 +1,4 @@
+element "ir/message" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tx_otp\")" only android
+}

@@ -1,0 +1,4 @@
+element "qa-quiz-form/next" {
+
+  locator xpath "//button[contains(@class,'quiz')][normalize-space()='Next']"
+}

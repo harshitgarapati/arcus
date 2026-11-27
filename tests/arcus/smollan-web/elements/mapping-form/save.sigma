@@ -1,0 +1,4 @@
+element "mapping-form/save" {
+
+  locator css ".dvm-mapping-dialog .dvm-save-btn"
+}

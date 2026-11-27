@@ -1,0 +1,4 @@
+element "ir-pack/reason" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/spin_reason_type\")" only android
+}

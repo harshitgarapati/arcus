@@ -1,0 +1,4 @@
+element "ir-report/status-all" {
+
+  locator xpath "//*[@resource-id='android:id/checkbox' and @text='ALL']" only android
+}

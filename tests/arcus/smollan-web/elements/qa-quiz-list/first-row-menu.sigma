@@ -1,0 +1,4 @@
+element "qa-quiz-list/first-row-menu" {
+
+  locator css "tbody tr:first-child i.mat-menu-trigger"
+}

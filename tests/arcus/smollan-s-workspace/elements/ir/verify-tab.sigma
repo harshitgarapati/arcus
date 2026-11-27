@@ -1,0 +1,4 @@
+element "ir/verify-tab" {
+
+  locator android-uiautomator "new UiSelector().description(\"Verify\")" only android
+}

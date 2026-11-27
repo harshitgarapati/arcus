@@ -1,0 +1,4 @@
+element "store/todays-tasks" {
+
+  locator android-uiautomator "new UiSelector().textStartsWith(\"Today's\")" only android
+}

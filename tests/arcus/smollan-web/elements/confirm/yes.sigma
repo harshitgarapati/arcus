@@ -1,0 +1,4 @@
+element "confirm/yes" {
+
+  locator css ".p-confirm-dialog-accept"
+}

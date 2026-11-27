@@ -1,0 +1,5 @@
+element "daily-check-in/check-in" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_accept\")" only android
+  locator xpath "//*[@text='Check In']" only android
+}

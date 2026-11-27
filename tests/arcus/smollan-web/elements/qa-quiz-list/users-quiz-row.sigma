@@ -1,0 +1,4 @@
+element "qa-quiz-list/users-quiz-row" {
+
+  locator css "tbody tr span[title='Quiz for Users']"
+}

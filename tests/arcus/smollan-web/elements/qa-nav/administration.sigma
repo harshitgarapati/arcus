@@ -1,0 +1,4 @@
+element "qa-nav/administration" {
+
+  locator xpath "//li[contains(@class,'list-group-item')][.//div[normalize-space()='Administration']]"
+}

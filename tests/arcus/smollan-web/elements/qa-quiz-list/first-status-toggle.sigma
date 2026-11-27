@@ -1,0 +1,4 @@
+element "qa-quiz-list/first-status-toggle" {
+
+  locator css "tbody tr:first-child label.switch span.slider"
+}

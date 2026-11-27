@@ -1,0 +1,4 @@
+element "home/daily-check-in" {
+
+  locator xpath "//*[@resource-id='com.smollan.smart3:id/cv_todo'][.//*[@text='DAILY CHECK-IN']]" only android
+}

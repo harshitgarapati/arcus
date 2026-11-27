@@ -1,0 +1,4 @@
+element "qa-quiz-list/grid" {
+
+  locator css "div.p-datatable-wrapper"
+}

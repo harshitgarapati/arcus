@@ -1,0 +1,4 @@
+element "mapping-form/cancel" {
+
+  locator css ".dvm-mapping-dialog .dvm-cancel-btn"
+}

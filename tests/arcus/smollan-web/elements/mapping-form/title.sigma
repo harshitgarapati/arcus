@@ -1,0 +1,4 @@
+element "mapping-form/title" {
+
+  locator css ".dvm-mapping-dialog .dvm-dialog-title"
+}

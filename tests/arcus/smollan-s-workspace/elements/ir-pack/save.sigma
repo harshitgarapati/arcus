@@ -1,0 +1,4 @@
+element "ir-pack/save" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_apply\")" only android
+}

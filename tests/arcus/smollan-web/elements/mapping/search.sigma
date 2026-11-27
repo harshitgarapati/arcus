@@ -1,0 +1,4 @@
+element "mapping/search" {
+
+  locator css "input.dvm-search"
+}

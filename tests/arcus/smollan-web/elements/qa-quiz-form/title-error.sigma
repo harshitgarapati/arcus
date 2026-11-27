@@ -1,0 +1,4 @@
+element "qa-quiz-form/title-error" {
+
+  locator xpath "//*[normalize-space(text())='Please Enter Title']"
+}

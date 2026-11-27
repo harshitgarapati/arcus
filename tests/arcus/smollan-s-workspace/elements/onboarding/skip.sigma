@@ -1,0 +1,5 @@
+element "onboarding/skip" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_skip\")" only android
+  locator xpath "//*[@text='Skip']" only android
+}

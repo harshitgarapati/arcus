@@ -1,0 +1,4 @@
+element "qa-quiz-form/time-limit" {
+
+  locator css "input[formcontrolname='timeLimit']"
+}

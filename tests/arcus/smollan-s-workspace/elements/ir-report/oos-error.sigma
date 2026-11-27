@@ -1,0 +1,4 @@
+element "ir-report/oos-error" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/txt_error\")" only android
+}

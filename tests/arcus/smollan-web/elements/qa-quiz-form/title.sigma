@@ -1,0 +1,4 @@
+element "qa-quiz-form/title" {
+
+  locator css "input[formcontrolname='title']"
+}

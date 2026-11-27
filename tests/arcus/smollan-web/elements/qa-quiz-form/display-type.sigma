@@ -1,0 +1,4 @@
+element "qa-quiz-form/display-type" {
+
+  locator css "mat-select[formcontrolname='displayTypeId']"
+}

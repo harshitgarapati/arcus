@@ -1,0 +1,4 @@
+element "vehicle-form/number" {
+
+  locator css "#vehicleNumber"
+}

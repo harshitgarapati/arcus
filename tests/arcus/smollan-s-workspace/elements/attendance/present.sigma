@@ -1,0 +1,4 @@
+element "attendance/present" {
+
+  locator xpath "//*[@text='Present']" only android
+}

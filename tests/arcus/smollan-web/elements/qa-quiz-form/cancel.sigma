@@ -1,0 +1,4 @@
+element "qa-quiz-form/cancel" {
+
+  locator xpath "//button[contains(@class,'roles')][normalize-space()='Cancel']"
+}

@@ -1,0 +1,4 @@
+element "ir-camera/retake-confirm" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/photo_confirm_button\")" only android
+}

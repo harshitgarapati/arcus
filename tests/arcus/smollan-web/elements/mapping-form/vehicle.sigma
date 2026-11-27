@@ -1,0 +1,4 @@
+element "mapping-form/vehicle" {
+
+  locator css "p-dropdown[formcontrolname='vehicle'] .p-dropdown"
+}

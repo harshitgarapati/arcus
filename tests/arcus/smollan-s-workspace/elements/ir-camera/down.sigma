@@ -1,0 +1,4 @@
+element "ir-camera/down" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/ib_down\")" only android
+}

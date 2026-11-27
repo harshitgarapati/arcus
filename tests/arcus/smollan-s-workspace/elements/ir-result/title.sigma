@@ -1,0 +1,4 @@
+element "ir-result/title" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_title\")" only android
+}

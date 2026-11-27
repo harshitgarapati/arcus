@@ -1,0 +1,4 @@
+element "ir-report/product-list" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/rv_verify\")" only android
+}

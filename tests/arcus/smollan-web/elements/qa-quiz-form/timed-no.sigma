@@ -1,0 +1,4 @@
+element "qa-quiz-form/timed-no" {
+
+  locator css "mat-radio-group[formcontrolname='isTimeQuiz'] mat-radio-button:has(input[value='false']) label"
+}

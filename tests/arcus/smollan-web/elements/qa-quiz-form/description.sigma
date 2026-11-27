@@ -1,0 +1,4 @@
+element "qa-quiz-form/description" {
+
+  locator css "textarea[formcontrolname='description']"
+}

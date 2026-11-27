@@ -1,0 +1,4 @@
+element "call-cycle/search" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/search_src_text\")" only android
+}

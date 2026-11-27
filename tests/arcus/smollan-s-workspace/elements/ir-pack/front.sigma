@@ -1,0 +1,4 @@
+element "ir-pack/front" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/iv_front_catpure\")" only android
+}

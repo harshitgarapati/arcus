@@ -1,0 +1,5 @@
+element "location-checkin/continue" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_accept\")" only android
+  locator xpath "//*[@text='Continue']" only android
+}

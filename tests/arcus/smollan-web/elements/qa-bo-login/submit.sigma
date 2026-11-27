@@ -1,0 +1,4 @@
+element "qa-bo-login/submit" {
+
+  locator css "button[type='submit']"
+}

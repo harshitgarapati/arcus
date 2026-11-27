@@ -1,0 +1,4 @@
+element "sidebar/driver-master" {
+
+  locator css "div.side-menu li.menuListItem:nth-child(4)"
+}

@@ -1,0 +1,4 @@
+element "ir/cancel" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_clear\")" only android
+}

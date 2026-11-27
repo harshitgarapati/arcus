@@ -1,0 +1,4 @@
+element "driver-master/name-header" {
+
+  locator xpath "//th[normalize-space()='Driver Name']"
+}

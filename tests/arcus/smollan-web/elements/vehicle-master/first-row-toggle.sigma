@@ -1,0 +1,4 @@
+element "vehicle-master/first-row-toggle" {
+
+  locator css "tbody tr:first-child button.um-btn-toggle"
+}

@@ -1,0 +1,4 @@
+element "mapping-form/store" {
+
+  locator css ".dvm-mapping-dialog .dvm-store-info"
+}

@@ -1,0 +1,4 @@
+element "vehicle-master/search" {
+
+  locator css "input.um-search"
+}

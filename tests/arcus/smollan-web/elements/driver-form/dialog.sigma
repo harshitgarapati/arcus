@@ -1,0 +1,4 @@
+element "driver-form/dialog" {
+
+  locator css ".um-form-dialog"
+}

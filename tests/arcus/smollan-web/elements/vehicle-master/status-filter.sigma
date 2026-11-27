@@ -1,0 +1,4 @@
+element "vehicle-master/status-filter" {
+
+  locator css "div.um-status-select"
+}

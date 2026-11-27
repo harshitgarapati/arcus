@@ -1,0 +1,4 @@
+element "driver-master/title" {
+
+  locator css "h2.um-page-title"
+}

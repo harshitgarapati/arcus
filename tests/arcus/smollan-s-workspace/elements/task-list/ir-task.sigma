@@ -1,0 +1,5 @@
+element "task-list/ir-task" {
+
+  locator android-uiautomator "new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().text(\"IR\"))" only android
+  locator xpath "//*[@resource-id='com.smollan.smart3:id/cl_tile'][.//*[@text='IR'] or @text='IR']" only android
+}

@@ -1,0 +1,4 @@
+element "qa-quiz-form/description-error" {
+
+  locator xpath "//*[normalize-space(text())='Please Enter Description']"
+}

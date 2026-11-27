@@ -1,0 +1,4 @@
+element "vehicle-form/cancel" {
+
+  locator css ".um-form-dialog button.um-btn-outline"
+}

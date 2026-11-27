@@ -1,0 +1,4 @@
+element "ir/add-new" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/fab_ir\")" only android
+}

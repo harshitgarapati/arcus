@@ -1,0 +1,4 @@
+element "ir-pack/back-image" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/iv_back_image\")" only android
+}

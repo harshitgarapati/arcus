@@ -1,0 +1,4 @@
+element "ir-camera/delete" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/ib_retry\")" only android
+}

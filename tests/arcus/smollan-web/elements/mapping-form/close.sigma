@@ -1,0 +1,4 @@
+element "mapping-form/close" {
+
+  locator css ".dvm-mapping-dialog .p-dialog-header-close"
+}

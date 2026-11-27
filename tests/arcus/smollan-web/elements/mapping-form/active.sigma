@@ -1,0 +1,4 @@
+element "mapping-form/active" {
+
+  locator css ".dvm-mapping-dialog label[for='statusActive']"
+}

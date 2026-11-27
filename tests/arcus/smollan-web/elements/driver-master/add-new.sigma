@@ -1,0 +1,4 @@
+element "driver-master/add-new" {
+
+  locator css "button.um-add-btn"
+}

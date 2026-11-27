@@ -1,0 +1,4 @@
+element "login/username" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/edt_username\")" only android
+}

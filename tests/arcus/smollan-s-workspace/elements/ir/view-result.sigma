@@ -1,0 +1,4 @@
+element "ir/view-result" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/rv_result\")" only android
+}

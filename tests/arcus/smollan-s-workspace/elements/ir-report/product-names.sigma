@@ -1,0 +1,4 @@
+element "ir-report/product-names" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/txt_product_name\")" only android
+}

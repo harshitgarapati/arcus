@@ -1,0 +1,4 @@
+element "mapping-form/inactive" {
+
+  locator css ".dvm-mapping-dialog label[for='statusInactive']"
+}

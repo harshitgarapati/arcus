@@ -1,0 +1,4 @@
+element "ir-report/oos-temporary" {
+
+  locator xpath "//*[@resource-id='android:id/checkbox' and @text='Temporary OOS']" only android
+}

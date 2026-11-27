@@ -1,0 +1,4 @@
+element "qa-layout/content-area" {
+
+  locator css "div.content-container"
+}

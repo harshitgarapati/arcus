@@ -1,0 +1,4 @@
+element "qa-quiz-list/search" {
+
+  locator css "input[placeholder='Search']"
+}

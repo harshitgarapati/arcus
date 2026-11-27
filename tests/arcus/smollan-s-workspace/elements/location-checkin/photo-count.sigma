@@ -1,0 +1,4 @@
+element "location-checkin/photo-count" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_count\")" only android
+}

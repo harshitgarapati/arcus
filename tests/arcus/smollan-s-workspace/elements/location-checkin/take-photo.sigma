@@ -1,0 +1,4 @@
+element "location-checkin/take-photo" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_camera1_multiphoto\")" only android
+}

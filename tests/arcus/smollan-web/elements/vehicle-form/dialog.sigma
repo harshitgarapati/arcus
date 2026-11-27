@@ -1,0 +1,4 @@
+element "vehicle-form/dialog" {
+
+  locator css ".um-form-dialog"
+}

@@ -1,0 +1,4 @@
+element "qa-quiz-list/rows" {
+
+  locator xpath "//p-table//tbody/tr[.//span[@title]]"
+}

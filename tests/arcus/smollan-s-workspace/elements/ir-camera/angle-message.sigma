@@ -1,0 +1,4 @@
+element "ir-camera/angle-message" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_camera_message\")" only android
+}

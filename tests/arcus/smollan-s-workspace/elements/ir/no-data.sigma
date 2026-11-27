@@ -1,0 +1,4 @@
+element "ir/no-data" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/tv_no_data\")" only android
+}

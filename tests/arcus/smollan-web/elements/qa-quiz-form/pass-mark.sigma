@@ -1,0 +1,4 @@
+element "qa-quiz-form/pass-mark" {
+
+  locator css "input[formcontrolname='passMark']"
+}

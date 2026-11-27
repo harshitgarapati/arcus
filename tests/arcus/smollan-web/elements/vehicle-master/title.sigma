@@ -1,0 +1,4 @@
+element "vehicle-master/title" {
+
+  locator css "h2.um-page-title"
+}

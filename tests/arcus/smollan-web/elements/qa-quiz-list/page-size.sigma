@@ -1,0 +1,4 @@
+element "qa-quiz-list/page-size" {
+
+  locator css "p-dropdown"
+}

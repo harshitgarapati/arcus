@@ -1,0 +1,4 @@
+element "ir-report/submit" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/btn_submit\")" only android
+}

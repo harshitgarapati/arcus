@@ -1,0 +1,4 @@
+element "camera/accept" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/photo_accept_button\")" only android
+}

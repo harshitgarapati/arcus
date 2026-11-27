@@ -1,0 +1,4 @@
+element "task-list/location-checkin" {
+
+  locator xpath "//*[@resource-id='com.smollan.smart3:id/cl_tile'][.//*[@text='LOCATION CHECKIN'] or @text='LOCATION CHECKIN']" only android
+}

@@ -1,0 +1,4 @@
+element "qa-administration/quizzes-tile" {
+
+  locator xpath "//mat-card[.//mat-card-title[normalize-space()='Quizzes']]"
+}

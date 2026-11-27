@@ -1,0 +1,4 @@
+element "ir-pack/reason-missed-identification" {
+
+  locator xpath "//*[@resource-id='android:id/checkbox' and @text='Missed Identification']" only android
+}

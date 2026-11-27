@@ -1,0 +1,4 @@
+element "ir-report/status-not-found" {
+
+  locator xpath "//*[@resource-id='android:id/checkbox' and @text='Not Found']" only android
+}

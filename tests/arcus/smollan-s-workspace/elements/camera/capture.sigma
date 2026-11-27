@@ -1,0 +1,4 @@
+element "camera/capture" {
+
+  locator android-uiautomator "new UiSelector().resourceIdMatches(\".*:id/camera_capture_button\")" only android
+}
